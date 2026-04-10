@@ -45,6 +45,10 @@ These constraints are non-negotiable. They are what convert the simulation from 
 
 ## v1 → v2 Status
 
+**Live v1 Demo:** [Morrison Reachability Simulation — Interactive](https://claude.ai/public/artifacts/7b346ba2-0381-4d89-bd20-78ee02939bef)
+
+The current v1 simulation is the baseline this specification extends. Engineers should run and explore v1 before beginning v2 implementation.
+
 |Component                     |v1 (Current Artifact)|v2 (Target)                            |
 |:----------------------------:|:-------------------:|:-------------------------------------:|
 |Reachable set computation     |✓ Implemented        |✓ Inherited                            |
